@@ -1,0 +1,17 @@
+/*const Home = () => {  
+  return (
+    <div>
+      <main>
+        <h1 className="text-6xl font-bold bg-gradient-to-r from-teal-400 via-blue-500 to-blue-900 text-transparent bg-clip-text shine-effect">
+          Hi, I'm Sohan!
+        </h1>
+        <p className="text-2xl font-medium mt-2 animate-typewriter italic">
+          A software developer and AI enthusiast
+        </p>
+      </main>
+    </div>
+  );
+};
+
+export default Home; */
+
