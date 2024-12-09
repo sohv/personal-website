@@ -40,13 +40,11 @@ yarn-error.log*
 next-env.d.ts
 
 # json files
-components.json 
 next-env.d.ts 
 next.config.js 
 next.config.ts 
 package-lock.json 
-postcss.config.mjs 
-tailwind.config.js 
+postcss.config.mjs  
 tailwind.config.ts
 tsconfig.json
 node_modules/
