@@ -2,7 +2,7 @@ import Heading from '../components/Heading';
 
 const ResumePage = () => {
   return (
-    <div className="flex flex-col items-start justify-start p-2">
+    <div className="flex flex-col items-start justify-start">
       <Heading>My Resume</Heading>
 
       <div className="w-full max-w-[1000px] h-[700px] border border-gray-300 rounded-lg overflow-hidden">

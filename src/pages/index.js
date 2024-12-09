@@ -40,7 +40,7 @@ const Home = () => {
       {/* Image Section */}
       <div className="relative">
         <img
-          src="/images/personal.jpeg" // Replace with the path to your image
+          src="/images/me.jpg" // Replace with the path to your image
           alt="Sohan"
           className="w-56 h-56 rounded-full object-cover"
         />
